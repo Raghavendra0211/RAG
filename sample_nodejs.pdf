@@ -1,0 +1,59 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 4 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 5 0 R /Resources << /Font << /F1 7 0 R >> >> >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 6 0 R /Resources << /Font << /F1 7 0 R >> >> >>
+endobj
+5 0 obj
+<< /Length 260 >>
+stream
+BT
+/F1 14 Tf
+50 700 Td
+(What is Node.js? Node.js is an open-source, cross-platform JavaScript runtime environment.) Tj
+0 -20 Td
+(It executes JavaScript code outside of a web browser using the Google Chrome V8 engine.) Tj
+0 -20 Td
+(Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient.) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Length 290 >>
+stream
+BT
+/F1 14 Tf
+50 700 Td
+(Node.js Module System: Node.js has a built-in module system based on CommonJS and ES Modules.) Tj
+0 -20 Td
+(It allows developers to import external libraries, core built-in modules like fs and http,) Tj
+0 -20 Td
+(and thousands of third-party npm packages to build high-performance network applications.) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000244 00000 n 
+0000000367 00000 n 
+0000000680 00000 n 
+0000001023 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+1094
+%%EOF
